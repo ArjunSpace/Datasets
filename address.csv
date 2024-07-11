@@ -1,6 +1,6 @@
-emp_id|emp_name|emp_add
-1|Alice|123 Main Street,New York,USA
-2|Bob|456 Oak Avenue,San Francisco,USA
-3|Carol|789 Pine Road,Los Angeles,USA
-4|David|321 Elm Lane,Chicago,USA
-5|Emily|654 Maple Drive,Miami,USA
+emp_id,emp_name,emp_add
+1,Alice,123 Main Street
+2,Bob,456 Oak Avenue
+3,Caro,789 Pine Road
+4,David,321 Elm Lane
+5,Emily,654 Maple Drive
